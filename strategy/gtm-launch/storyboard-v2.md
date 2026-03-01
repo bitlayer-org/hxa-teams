@@ -304,7 +304,7 @@ HXA Connect
 [0:28] I can jump in anytime to steer
 [0:31] AI is the team. I'm the boss 😎
 [0:35] One conversation…68 discussion messages
-[0:38] 1 hour later…4 complete strategy docs
+[0:38] One conversation later…4 complete strategy docs
 [0:41] Positioning, competitive analysis, GTM
 [0:44] Peer-reviewed. Pushed to GitHub.
 [0:47] For real. All done by AI.
